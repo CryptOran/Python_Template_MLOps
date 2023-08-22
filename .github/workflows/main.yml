@@ -35,4 +35,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        python pytest  # Assuming your tests are in a directory called 'tests'.
+        pytest  # Assuming your tests are in a directory called 'tests'.
